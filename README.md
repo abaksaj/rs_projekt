@@ -1,2 +1,2 @@
-# rs_projekt_abaksaj
+# rs_projekt
 Projekt uz kolegij Raspodijeljeni sustavi
